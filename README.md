@@ -15,7 +15,7 @@ Not only that, I would be building a real profile on github!
 
 ## List of my dev learnings  notes
 
-- [Macbook intial set up]()
+- [Macbook intial set up](https://github.com/geepum/macbook-setup)
 - [AWS]()
 - [Red Hat Enterprise Linux]()
 - [Cloud Resume Challenge]()
