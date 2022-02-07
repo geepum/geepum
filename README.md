@@ -1,10 +1,10 @@
 # My dev learnings notes
 
-### Introduction
+## Introduction
 
 As I am new to the whole dev world as well as understanding the fact that I can *REALLY* learn only by doing, I am keeping my learnings and notes on my github.
 
-### Objective
+## Objective
 
 I am hoping to learn and get used to the following skills by leaving my dev-journey on github:
 - markdown syntax
@@ -13,7 +13,7 @@ I am hoping to learn and get used to the following skills by leaving my dev-jour
 
 Not only that, I would be building a real profile on github!
 
-### List of my dev learnings  notes
+## List of my dev learnings  notes
 
 - [Macbook intial set up]()
 - [AWS]()
@@ -21,7 +21,7 @@ Not only that, I would be building a real profile on github!
 - [Cloud Resume Challenge]()
 - [Rust]()
 
-### To-do list
+## To-do list
 
 #### Cloud
 - [x] Start studying for AWS cloud practitioner exam
