@@ -26,6 +26,7 @@ Not only that, I would be building a real profile on github!
 #### Cloud
 - [x] Start studying for AWS cloud practitioner exam
 - [ ] Get AWS cloud practitioner certification
+- [ ] Complete [cloud resume challenge]()
 
 #### Linux
 - [ ] Start studying for RHCSA

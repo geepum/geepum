@@ -3,11 +3,12 @@
 ## installation
 - terminal
     - homebrew
-    - brew install --cask firefox google-chrome visual-studio-code iterm2
-    - brew install python3 pipenv nvm gh awscli
-    - nvm *version*
-    - gh auth login -> github.com -> https
+    - ```brew install --cask firefox google-chrome visual-studio-code iterm2```
+    - ```brew install python3 pipenv nvm gh awscli```
+    - ```nvm *version*```
+    - ```gh auth login``` -> github.com -> https
     - Rust
+    - ```defaults write com.apple.finder CreateDesktop false``` -> ```Killall Finder```
 - App store
     - 1PassWord, Things3, iA Writer, MindNode, Magnet, KakaoTalk, WeChat
     - Word, Excel, PowerPoint, OneDrive, 한컴오피스
@@ -92,3 +93,20 @@
         - 4-clock
             - Seoul, Salt Lake City, Edmonton, Local
             - Next selected cities
+- Finder
+    - finder preference
+        - general
+            - [x] open folders in tabs
+        - sidebar
+            - [x] airdrop
+            - [x] application
+            - [x] downloads
+            - [x] icloud drive
+            - [x] shared
+            - [x] desktop
+            - [x] external disks
+            - [x] CD DVD
+            - [x] cloud storage
+            - [x] connected server
+        - advanced -> all ✅
+- 
