@@ -1,8 +1,8 @@
 # Cloud Resume Challenge - AWS
 
 - [ ] certification
-- [ ] HTML
-- [ ] CSS
+- [x] HTML - need improvements but good enough as a initial template
+- [x] CSS - need improvements but good enough as a initial template
 - [ ] S3 static website
 - [ ] HTTPS thru CloudFront
 - [x] custom DNS domain name thru Route53

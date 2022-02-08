@@ -18,7 +18,7 @@ Not only that, I would be building a real profile on github!
 - [Macbook intial set up](https://github.com/geepum/geepum/tree/main/macbook-setup)
 - [AWS]()
 - [Red Hat Enterprise Linux]()
-- [Cloud Resume Challenge]()
+- [Cloud Resume Challenge](https://github.com/geepum/geepum/tree/main/cloud-resume-challenge)
 - [Rust]()
 
 ## To-do list
@@ -26,7 +26,7 @@ Not only that, I would be building a real profile on github!
 #### Cloud
 - [x] Start studying for AWS cloud practitioner exam
 - [ ] Get AWS cloud practitioner certification
-- [ ] Complete [cloud resume challenge]()
+- [ ] Complete [cloud resume challenge](https://geepum.com)
 
 #### Linux
 - [ ] Start studying for RHCSA
