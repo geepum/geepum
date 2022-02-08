@@ -28,12 +28,9 @@ Not only that, I would be building a real profile on github!
 - [ ] Get AWS cloud practitioner certification
 
 #### Linux
-- [x] Start studying for RHCSA
+- [] Start studying for RHCSA
 - [ ] Get RHCSA certification
 
-#### Networking
-- [ ] Start studying for CCNA
-- [ ] Get CCNA certification
 
 <!---
 geepum/geepum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
