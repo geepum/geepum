@@ -23,7 +23,7 @@ Not only that, I would be building a real profile on github!
 ## To-do list
 
 #### Cloud
-- [x] Start studying for AWS cloud practitioner exam
+- [x] Start studying for AWS SAA certification
 - [ ] Get AWS cloud practitioner certification
 - [ ] Complete [cloud resume challenge](https://github.com/geepum/cloud-resume-challenge)
 
