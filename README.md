@@ -15,9 +15,9 @@ Not only that, I would be building a real profile on github!
 
 ## List of my dev learnings  notes
 
-- [Macbook intial set up](https://github.com/geepum/geepum/tree/main/macbook-setup)
+- [Macbook intial set up](https://github.com/geepum/macbook-setup)
 - [AWS]()
-- [Red Hat Enterprise Linux](https://github.com/geepum/geepum/tree/main/linux)
+- [Red Hat Enterprise Linux](https://github.com/geepum/redhat-linux)
 - [Rust]()
 
 ## To-do list
