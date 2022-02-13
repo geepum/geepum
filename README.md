@@ -18,7 +18,7 @@ Not only that, I would be building a real profile on github!
 - [Macbook intial set up](https://github.com/geepum/macbook-setup)
 - [AWS]()
 - [Red Hat Enterprise Linux](https://github.com/geepum/redhat-linux)
-- [Rust]()
+- [Development]()
 
 ## To-do list
 
