@@ -16,6 +16,7 @@ Not only that, I would be building a real profile on github!
 ## List of my dev learnings  notes
 
 - [Macbook intial set up](https://github.com/geepum/macbook-setup)
+- [vim commands](https://github.com/geepum/vim-commands)
 - [AWS]()
 - [Red Hat Enterprise Linux](https://github.com/geepum/redhat-linux)
 - [Development]()
