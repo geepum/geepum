@@ -21,16 +21,10 @@ Not only that, I would be building a real profile on github!
 - [Red Hat Enterprise Linux](https://github.com/geepum/redhat-linux)
 - [Development]()
 
-## To-do list
+## Projects
 
-#### Cloud
-- [x] Start studying for AWS cloud practitioner
-- [ ] Get AWS cloud practitioner certification
-- [ ] Complete [cloud resume challenge](https://github.com/geepum/cloud-resume-challenge)
+- [ ] [cloud resume challenge](https://github.com/geepum/cloud-resume-challenge)
 
-#### Linux
-- [ ] Start studying for RHCSA
-- [ ] Get RHCSA certification
 
 
 <!---
