@@ -23,6 +23,7 @@ Not only that, I would be building a real profile on github!
 
 ## Projects
 
+- [ ] [tiny jetbrains projects](https://github.com/geepum/jetbrains)
 - [ ] [cloud resume challenge](https://github.com/geepum/cloud-resume-challenge)
 
 
