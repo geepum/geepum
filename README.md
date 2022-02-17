@@ -17,7 +17,7 @@ Not only that, I would be building a real profile on github!
 
 - [Macbook intial set up](https://github.com/geepum/macbook-setup)
 - [vim commands](https://github.com/geepum/vim-commands)
-- [AWS]()
+- [AWS](https://github.com/geepum/aws)
 - [Linux](https://github.com/geepum/redhat-linux)
 - [Python](https://github.com/geepum/python)
 
