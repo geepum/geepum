@@ -2,18 +2,17 @@
 
 ## Introduction
 
-As I am new to the whole dev world as well as understanding the fact that I can *REALLY* learn only by doing, I am keeping my learnings and notes on my github.
+As I am new to the whole cloud ops world as well as understanding the fact that I can *REALLY* learn only by doing, I am keeping my learnings and notes on my github.
 
 ## Objective
 
 I am hoping to learn and get used to the following skills by leaving my dev-journey on github:
 - markdown syntax
-- gh cli commands
 - git commands
 
 Not only that, I would be building a real profile on github!
 
-## List of my dev learnings  notes
+## My learning notes
 
 - [Macbook intial set up](https://github.com/geepum/macbook-setup)
 - [vim commands](https://github.com/geepum/vim-commands)
@@ -22,10 +21,6 @@ Not only that, I would be building a real profile on github!
 - [Python](https://github.com/geepum/python)
 - [jetbrains exercises](https://github.com/geepum/jetbrains)
 
-## Projects
-
-- [ ] [tiny jetbrains projects](https://github.com/geepum/jetbrains)
-- [ ] [cloud resume challenge](https://github.com/geepum/cloud-resume-challenge)
 
 
 
