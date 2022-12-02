@@ -20,7 +20,7 @@ Not only that, I would be building a real profile on github!
 - [Linux](https://github.com/geepum/redhat-linux)
 - [Python](https://github.com/geepum/python)
 - [jetbrains exercises](https://github.com/geepum/jetbrains)
-
+- [flutter](https://github.com/geepum/flutter)
 
 
 
